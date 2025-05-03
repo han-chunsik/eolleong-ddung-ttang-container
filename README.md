@@ -6,6 +6,9 @@
 이 프로젝트는 Docker나 Podman 같은 도구 없이 리눅스의 기본 기능만으로 컨테이너를 직접 구현해보는 실습입니다.  
 리눅스 명령어와 Go 언어를 활용하여 컨테이너의 핵심 구성 요소를 단계별로 따라 구현하며, 컨테이너 기술에 대한 깊은 이해를 목표로 합니다.
 
+## 실습
+
+
 
 ## 참고
 - [Build Your Own Container Using Less than 100 Lines of Go](https://www.infoq.com/articles/build-a-container-golang/)
